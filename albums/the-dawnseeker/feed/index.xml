@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Dawnseeker &#8211; Sleepthief</title>
+	<atom:link href="/albums/the-dawnseeker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Official Site</description>
+	<lastBuildDate>Tue, 12 Jun 2012 08:46:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Tenuous</title>
+		<link>/shop/tracks/tenuous/</link>
+					<comments>/shop/tracks/tenuous/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Mon, 11 Jun 2012 08:43:12 +0000</pubDate>
+				<guid isPermaLink="false">/store/tracks/tenuous/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/tenuous/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Chauffeur</title>
+		<link>/shop/tracks/the-chauffeur/</link>
+					<comments>/shop/tracks/the-chauffeur/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Sun, 10 Jun 2012 18:49:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=130</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/the-chauffeur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Just Say It</title>
+		<link>/shop/tracks/just-say-it/</link>
+					<comments>/shop/tracks/just-say-it/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Sun, 10 Jun 2012 10:17:10 +0000</pubDate>
+				<guid isPermaLink="false">/store/tracks/just-say-it/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/just-say-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>You Did a Good Thing</title>
+		<link>/shop/tracks/you-did-a-good-thing/</link>
+					<comments>/shop/tracks/you-did-a-good-thing/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Sun, 10 Jun 2012 10:08:21 +0000</pubDate>
+				<guid isPermaLink="false">/store/tracks/you-did-a-good-thing/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/you-did-a-good-thing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desire of Ages</title>
+		<link>/shop/tracks/desire-of-ages/</link>
+					<comments>/shop/tracks/desire-of-ages/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 08:23:22 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=46</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/desire-of-ages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eurydice</title>
+		<link>/shop/tracks/eurydice/</link>
+					<comments>/shop/tracks/eurydice/#respond</comments>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 07:42:07 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=43</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p></p>]]></content:encoded>
+					
+					<wfw:commentRss>/shop/tracks/eurydice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Collaborations &#8211; Sleepthief</title>
+	<atom:link href="/shop/product/collaborations/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Official Site</description>
+	<lastBuildDate>Thu, 14 Jun 2012 19:41:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Collaborations</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 08:59:30 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing all 4 results Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Invitation (Sleepthief Remix)Rated 4.00 out of 5 &#36;0.99 Read more Bridges (Sleepthief Remix) &#36;0.99 Read more Another Day &#36;0.99 Read more Hush (Sleepthief Remix) &#36;0.99 Read more]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 4 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date"  selected='selected'>Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="1395" /></form>
+<ul class="products columns-4">
+<li class="product type-product post-416 status-publish first instock product_cat-collaborations has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/collaborations/invitation-sleepthief-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/beauty2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/beauty2.jpg 600w, /wp-content/uploads/beauty2-150x150.jpg 150w, /wp-content/uploads/beauty2-300x300.jpg 300w, /wp-content/uploads/beauty2-80x80.jpg 80w, /wp-content/uploads/beauty2-200x200.jpg 200w, /wp-content/uploads/beauty2-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Invitation (Sleepthief Remix)</h2><div class="star-rating" role="img" aria-label="Rated 4.00 out of 5"><span style="width:80%">Rated <strong class="rating">4.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/collaborations/invitation-sleepthief-remix/" data-quantity="1" class="button product_type_simple" data-product_id="416" data-product_sku="" aria-label="Read more about &ldquo;Invitation (Sleepthief Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-337 status-publish instock product_cat-collaborations has-post-thumbnail featured downloadable virtual product-type-simple">
+	<a href="/shop/collaborations/bridges-sleepthief-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/bluestone-bridges-cover.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/bluestone-bridges-cover.jpg 500w, /wp-content/uploads/bluestone-bridges-cover-150x150.jpg 150w, /wp-content/uploads/bluestone-bridges-cover-300x300.jpg 300w, /wp-content/uploads/bluestone-bridges-cover-80x80.jpg 80w, /wp-content/uploads/bluestone-bridges-cover-200x200.jpg 200w, /wp-content/uploads/bluestone-bridges-cover-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Bridges (Sleepthief Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/collaborations/bridges-sleepthief-remix/" data-quantity="1" class="button product_type_simple" data-product_id="337" data-product_sku="" aria-label="Read more about &ldquo;Bridges (Sleepthief Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-332 status-publish instock product_cat-collaborations has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/collaborations/another-day/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/beauty2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/beauty2.jpg 600w, /wp-content/uploads/beauty2-150x150.jpg 150w, /wp-content/uploads/beauty2-300x300.jpg 300w, /wp-content/uploads/beauty2-80x80.jpg 80w, /wp-content/uploads/beauty2-200x200.jpg 200w, /wp-content/uploads/beauty2-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Another Day</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/collaborations/another-day/" data-quantity="1" class="button product_type_simple" data-product_id="332" data-product_sku="" aria-label="Read more about &ldquo;Another Day&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-328 status-publish last instock product_cat-collaborations has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/collaborations/hush-sleepthief-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/hush-cover.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/hush-cover.jpg 500w, /wp-content/uploads/hush-cover-150x150.jpg 150w, /wp-content/uploads/hush-cover-300x300.jpg 300w, /wp-content/uploads/hush-cover-80x80.jpg 80w, /wp-content/uploads/hush-cover-200x200.jpg 200w, /wp-content/uploads/hush-cover-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Hush (Sleepthief Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/collaborations/hush-sleepthief-remix/" data-quantity="1" class="button product_type_simple" data-product_id="328" data-product_sku="" aria-label="Read more about &ldquo;Hush (Sleepthief Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

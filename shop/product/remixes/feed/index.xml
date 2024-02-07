@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Remixes &#8211; Sleepthief</title>
+	<atom:link href="/shop/product/remixes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Official Site</description>
+	<lastBuildDate>Thu, 14 Jun 2012 19:41:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Remixes</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 08:59:30 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing all 7 results Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Eurydice (Angels Upon the Waters Remix) &#36;0.99 Read more Eurydice (Nick Wax&#8217;s Orpheus Descending Mix) &#36;0.99 Read more Eurydice (Sensory Gate Remix) &#36;0.99 Read more Mortal Longing (Bluestone Remix) [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 7 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date"  selected='selected'>Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="1385" /></form>
+<ul class="products columns-4">
+<li class="product type-product post-418 status-publish first instock product_cat-remixes has-post-thumbnail featured downloadable virtual product-type-simple">
+	<a href="/shop/remixes/eurydice-angels-upon-the-waters-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/eurydice-ep.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/eurydice-ep.jpg 800w, /wp-content/uploads/eurydice-ep-150x150.jpg 150w, /wp-content/uploads/eurydice-ep-300x300.jpg 300w, /wp-content/uploads/eurydice-ep-80x80.jpg 80w, /wp-content/uploads/eurydice-ep-200x200.jpg 200w, /wp-content/uploads/eurydice-ep-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Eurydice (Angels Upon the Waters Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/eurydice-angels-upon-the-waters-remix/" data-quantity="1" class="button product_type_simple" data-product_id="418" data-product_sku="" aria-label="Read more about &ldquo;Eurydice (Angels Upon the Waters Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-303 status-publish instock product_cat-remixes has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/remixes/eurydice-nick-waxs-orpheus-descending-mix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/eurydice-ep.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/eurydice-ep.jpg 800w, /wp-content/uploads/eurydice-ep-150x150.jpg 150w, /wp-content/uploads/eurydice-ep-300x300.jpg 300w, /wp-content/uploads/eurydice-ep-80x80.jpg 80w, /wp-content/uploads/eurydice-ep-200x200.jpg 200w, /wp-content/uploads/eurydice-ep-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Eurydice (Nick Wax&#8217;s Orpheus Descending Mix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/eurydice-nick-waxs-orpheus-descending-mix/" data-quantity="1" class="button product_type_simple" data-product_id="303" data-product_sku="" aria-label="Read more about &ldquo;Eurydice (Nick Wax&#039;s Orpheus Descending Mix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-298 status-publish instock product_cat-remixes has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/remixes/eurydice-sensory-gate-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/eurydice-ep.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/eurydice-ep.jpg 800w, /wp-content/uploads/eurydice-ep-150x150.jpg 150w, /wp-content/uploads/eurydice-ep-300x300.jpg 300w, /wp-content/uploads/eurydice-ep-80x80.jpg 80w, /wp-content/uploads/eurydice-ep-200x200.jpg 200w, /wp-content/uploads/eurydice-ep-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Eurydice (Sensory Gate Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/eurydice-sensory-gate-remix/" data-quantity="1" class="button product_type_simple" data-product_id="298" data-product_sku="" aria-label="Read more about &ldquo;Eurydice (Sensory Gate Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-212 status-publish last instock product_cat-remixes has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/remixes/mortal-longing-bluestone-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/SLPTHF_ml_single_cover_02b.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/SLPTHF_ml_single_cover_02b.jpg 800w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-150x150.jpg 150w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-300x300.jpg 300w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-80x80.jpg 80w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-200x200.jpg 200w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Mortal Longing (Bluestone Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/mortal-longing-bluestone-remix/" data-quantity="1" class="button product_type_simple" data-product_id="212" data-product_sku="" aria-label="Read more about &ldquo;Mortal Longing (Bluestone Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-210 status-publish first instock product_cat-remixes has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/remixes/mortal-longing-dj-mikeld-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/SLPTHF_ml_single_cover_02b.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/SLPTHF_ml_single_cover_02b.jpg 800w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-150x150.jpg 150w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-300x300.jpg 300w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-80x80.jpg 80w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-200x200.jpg 200w, /wp-content/uploads/SLPTHF_ml_single_cover_02b-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Mortal Longing (DJ MikelD Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/mortal-longing-dj-mikeld-remix/" data-quantity="1" class="button product_type_simple" data-product_id="210" data-product_sku="" aria-label="Read more about &ldquo;Mortal Longing (DJ MikelD Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-201 status-publish instock product_cat-remixes has-post-thumbnail downloadable virtual product-type-simple">
+	<a href="/shop/remixes/eurydice-psychosomatic-remix/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/eurydice-ep.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/eurydice-ep.jpg 800w, /wp-content/uploads/eurydice-ep-150x150.jpg 150w, /wp-content/uploads/eurydice-ep-300x300.jpg 300w, /wp-content/uploads/eurydice-ep-80x80.jpg 80w, /wp-content/uploads/eurydice-ep-200x200.jpg 200w, /wp-content/uploads/eurydice-ep-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Eurydice (Psychosomatic Remix)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>0.99</bdi></span></span>
+</a><a href="/shop/remixes/eurydice-psychosomatic-remix/" data-quantity="1" class="button product_type_simple" data-product_id="201" data-product_sku="" aria-label="Read more about &ldquo;Eurydice (Psychosomatic Remix)&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-86 status-publish instock product_cat-remixes product_cat-singles has-post-thumbnail featured downloadable virtual product-type-simple">
+	<a href="/shop/singles/the-chauffeur-ep/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/thechauffeur-ep.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/thechauffeur-ep.jpg 800w, /wp-content/uploads/thechauffeur-ep-150x150.jpg 150w, /wp-content/uploads/thechauffeur-ep-300x300.jpg 300w, /wp-content/uploads/thechauffeur-ep-80x80.jpg 80w, /wp-content/uploads/thechauffeur-ep-200x200.jpg 200w, /wp-content/uploads/thechauffeur-ep-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">The Chauffeur [EP]</h2><div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>6.99</bdi></span></span>
+</a><a href="/shop/singles/the-chauffeur-ep/" data-quantity="1" class="button product_type_simple" data-product_id="86" data-product_sku="" aria-label="Read more about &ldquo;The Chauffeur [EP]&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

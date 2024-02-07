@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Albums &#8211; Sleepthief</title>
+	<atom:link href="/shop/product/albums/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Official Site</description>
+	<lastBuildDate>Thu, 14 Jun 2012 19:41:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Albums</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[israel]]></dc:creator>
+		<pubDate>Wed, 06 Jun 2012 08:59:30 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing all 2 results Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Labyrinthine HeartRated 5.00 out of 5 &#36;8.99 Read more The DawnseekerRated 5.00 out of 5 &#36;8.99 Read more]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 2 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date"  selected='selected'>Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="1338" /></form>
+<ul class="products columns-4">
+<li class="product type-product post-84 status-publish first instock product_cat-albums has-post-thumbnail featured downloadable virtual product-type-simple">
+	<a href="/shop/albums/labyrinthine-heart/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/labyrinthineheart-album.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/labyrinthineheart-album.jpg 500w, /wp-content/uploads/labyrinthineheart-album-150x150.jpg 150w, /wp-content/uploads/labyrinthineheart-album-300x300.jpg 300w, /wp-content/uploads/labyrinthineheart-album-80x80.jpg 80w, /wp-content/uploads/labyrinthineheart-album-200x200.jpg 200w, /wp-content/uploads/labyrinthineheart-album-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">Labyrinthine Heart</h2><div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>8.99</bdi></span></span>
+</a><a href="/shop/albums/labyrinthine-heart/" data-quantity="1" class="button product_type_simple" data-product_id="84" data-product_sku="" aria-label="Read more about &ldquo;Labyrinthine Heart&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+<li class="product type-product post-47 status-publish instock product_cat-albums has-post-thumbnail featured downloadable virtual product-type-simple">
+	<a href="/shop/albums/the-dawnseeker/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="200" height="200" src="/wp-content/uploads/2012/06/dawnseeker-album.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2012/06/dawnseeker-album.jpg 800w, /wp-content/uploads/2012/06/dawnseeker-album-150x150.jpg 150w, /wp-content/uploads/2012/06/dawnseeker-album-300x300.jpg 300w, /wp-content/uploads/2012/06/dawnseeker-album-80x80.jpg 80w, /wp-content/uploads/2012/06/dawnseeker-album-200x200.jpg 200w, /wp-content/uploads/2012/06/dawnseeker-album-400x400.jpg 400w" sizes="(max-width: 200px) 100vw, 200px" /><h2 class="woocommerce-loop-product__title">The Dawnseeker</h2><div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated <strong class="rating">5.00</strong> out of 5</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>8.99</bdi></span></span>
+</a><a href="/shop/albums/the-dawnseeker/" data-quantity="1" class="button product_type_simple" data-product_id="47" data-product_sku="" aria-label="Read more about &ldquo;The Dawnseeker&rdquo;" aria-describedby="" rel="nofollow">Read more</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
